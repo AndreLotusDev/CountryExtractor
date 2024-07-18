@@ -1,0 +1,8 @@
+INSERT INTO country (country_name, international_dialing, created_by_user_id, created_at, status, alpha_2, alpha_3) VALUES ('Aland Islands', 'N/A', '-1', now(), 'active', 'AX', 'ALA'),
+INSERT INTO country (country_name, international_dialing, created_by_user_id, created_at, status, alpha_2, alpha_3) VALUES ('Bonaire, Sint Eustatius and Saba', 'N/A', '-1', now(), 'active', 'BQ', 'BES'),
+INSERT INTO country (country_name, international_dialing, created_by_user_id, created_at, status, alpha_2, alpha_3) VALUES ('Curaçao', 'N/A', '-1', now(), 'active', 'CW', 'CUW'),
+INSERT INTO country (country_name, international_dialing, created_by_user_id, created_at, status, alpha_2, alpha_3) VALUES ('Kosovo', 'N/A', '-1', now(), 'active', 'XK', 'XKX'),
+INSERT INTO country (country_name, international_dialing, created_by_user_id, created_at, status, alpha_2, alpha_3) VALUES ('Man (Isle of)', 'N/A', '-1', now(), 'active', 'IM', 'IMN'),
+INSERT INTO country (country_name, international_dialing, created_by_user_id, created_at, status, alpha_2, alpha_3) VALUES ('Saint-Barthelemy', 'N/A', '-1', now(), 'active', 'BL', 'BLM'),
+INSERT INTO country (country_name, international_dialing, created_by_user_id, created_at, status, alpha_2, alpha_3) VALUES ('Saint-Martin (French part)', 'N/A', '-1', now(), 'active', 'MF', 'MAF'),
+INSERT INTO country (country_name, international_dialing, created_by_user_id, created_at, status, alpha_2, alpha_3) VALUES ('Sint Maarten (Dutch part)', 'N/A', '-1', now(), 'active', 'SX', 'SXM'),
